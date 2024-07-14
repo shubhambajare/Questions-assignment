@@ -1,0 +1,34 @@
+#root {
+  margin: 0 auto;
+  padding: 5px;
+}
+
+.card {
+  padding: 1em;
+}
+
+
+.header {
+  background-color: #402E7A;
+  color: white;
+  padding: 5px;
+}
+
+.title {
+  font-size: 25px;
+  font-weight: 700;
+}
+
+.text-align-center {
+  text-align: center;
+}
+
+.score-text {
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.question {
+  font-size: 16px;
+  font-weight: 600;
+}
